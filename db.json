@@ -1,12 +1,12 @@
 {
   "todoList_1": [
-        { "title": "đi cà phê" },
-        { "title": "đi chơi" },
-        { "title": "đi học" },
-        { "title": "đi hẹn hò" },
-        { "title": "đi ngủ" },
-        { "title": "đi trà sữa" },
-        { "title": "đi biển" },
-        { "title": "đi vô rừng" }
-    ]
+    { "title": "Đi chợ" },
+    { "title": "Đi cà phê" },
+    { "title": "Đi chơi" },
+    { "title": "Đi học" },
+    { "title": "đi hẹn hò" },
+    { "title": "đi ngủ sáng" },
+    { "title": "đi ngủ trưa" },
+    { "title": "đi ngủ tối" }
+  ]
 }
