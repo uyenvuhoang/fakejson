@@ -1,5 +1,4 @@
 {
-  "todoList_0": [],
   "todoList_1": [
         { "title": "đi cà phê" },
         { "title": "đi chơi" },
@@ -8,6 +7,6 @@
         { "title": "đi ngủ" },
         { "title": "đi trà sữa" },
         { "title": "đi biển" },
-        { "title": "đi vô rừng" },
+        { "title": "đi vô rừng" }
     ]
 }
